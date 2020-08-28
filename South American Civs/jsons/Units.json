@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Gaucho",
+		"unitType": "Mounted",
+		"uniqueTo": "Argentina",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 34,
+		"cost": 200,
+		"hurryCostModifier": 20,
+		"requiredTech": "Military Science",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": [
+			"Can move after attacking",
+			"Can build improvements on tiles",
+			"No defensive terrain bonus",
+			"Penalty vs City 33%"
+		],
+		"attackSound": "horse"
+	}
+]

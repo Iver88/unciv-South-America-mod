@@ -1,4 +1,5 @@
-# unciv-South-America-mod
-This is a mod I'm makinh for unciv. It Will add South American civs, currently only Argentina. I need help with It.
+# The Lands Of South America: An Unciv Mod
 
-Argentina civ icon - https://thenounproject.com/search/?q=argentina&i=629583
+This mod from Clairjinjo brings the civilizations from South America, but it only has the Argentine civ as of April 18, 2020. More will come soon.
+
+Full credits and changelog are available in the txt file.
